@@ -1,5 +1,5 @@
 import React from 'react'
-import main from '../../Assets/avataaars.svg'
+import main from '../../assets/avataaars.svg'
 
 export default function Home() {
   return <>
